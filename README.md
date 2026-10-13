@@ -6,4 +6,23 @@ Lecturer: Dr. Felipe Tobar
 
 This repository documents my coursework solutions from this module.
 
-Some interesting stuff I learned:
+### Some interesting stuff I learned:
+
+- Maximum likelihood estimation
+- Kullback–Leibler divergence
+- Expectation–Maximisation algorithm
+- Gaussian mixture models
+- Markov chain Monte Carlo
+- Variational inference
+- Gaussian processes
+- Optimal transport
+- Variational autoencoders
+- Transformers
+- Normalising flows
+- Flow matching
+- Diffusion models
+
+### Coursework
+
+- Coursework 1: [Notebook](coursework-1.ipynb) | [PDF](coursework-1.pdf)
+- Coursework 2: [Notebook](coursework-2.ipynb) | [PDF](coursework-2.pdf)
