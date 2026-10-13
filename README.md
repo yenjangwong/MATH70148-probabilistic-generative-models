@@ -21,8 +21,3 @@ This repository documents my coursework solutions from this module.
 - Normalising flows
 - Flow matching
 - Diffusion models
-
-### Coursework
-
-- Coursework 1: [Notebook](coursework-1.ipynb) | [PDF](coursework-1.pdf)
-- Coursework 2: [Notebook](coursework-2.ipynb) | [PDF](coursework-2.pdf)
